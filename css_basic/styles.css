@@ -6,4 +6,6 @@ body {
 main {
     display: flex;
     flex-direction: row;
+    width: auto;
+    height: auto;
 }
